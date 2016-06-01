@@ -1,0 +1,11 @@
+http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+
+git remote add origin https://github.com/yourusername/Hello-World.git
+
+You need to replace "yourusername" with—you guessed it—your GitHub username. For me, it'd look like this:
+
+git remote add origin https://github.com/gittest1040/Hello-World.git
+
+This command tells git where to send your Hello-World repository. Now all you need to do is send it:
+
+git push origin master
