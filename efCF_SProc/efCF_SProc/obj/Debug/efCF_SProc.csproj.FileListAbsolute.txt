@@ -1,0 +1,10 @@
+c:\src\efCF_SProc\efCF_SProc\bin\Debug\efCF_SProc.exe.config
+c:\src\efCF_SProc\efCF_SProc\bin\Debug\efCF_SProc.exe
+c:\src\efCF_SProc\efCF_SProc\bin\Debug\efCF_SProc.pdb
+c:\src\efCF_SProc\efCF_SProc\obj\Debug\efCF_SProc.csprojResolveAssemblyReference.cache
+c:\src\efCF_SProc\efCF_SProc\obj\Debug\efCF_SProc.exe
+c:\src\efCF_SProc\efCF_SProc\obj\Debug\efCF_SProc.pdb
+c:\src\efCF_SProc\efCF_SProc\bin\Debug\EntityFramework.dll
+c:\src\efCF_SProc\efCF_SProc\bin\Debug\EntityFramework.SqlServer.dll
+c:\src\efCF_SProc\efCF_SProc\bin\Debug\EntityFramework.xml
+c:\src\efCF_SProc\efCF_SProc\bin\Debug\EntityFramework.SqlServer.xml

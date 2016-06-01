@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @ViewBag.Greeting.Rows[0]["name"].ToString()
+        @{ 
+            var s = string.Empty;
+            foreach (var r in ViewBag.Greeting.Rows)
+            {
+                s += r["name"].ToString();
+            }
+        }
+        <p>@s</p>
+    </div>
+</body>
+</html>

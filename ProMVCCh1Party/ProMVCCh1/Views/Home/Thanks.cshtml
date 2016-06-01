@@ -1,0 +1,27 @@
+﻿@model ProMVCCh1.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <div> 
+        <h1>thanks @Model.Name!!</h1>
+        @if(Model.WillAttend == true)
+        {
+            @:yay!
+        }
+        else
+        {
+            @:boo.......
+        }
+    </div>
+</body>
+</html>

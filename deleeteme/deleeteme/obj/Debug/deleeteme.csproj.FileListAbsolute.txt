@@ -1,0 +1,14 @@
+c:\src\deleeteme\deleeteme\bin\Debug\deleeteme.exe.config
+c:\src\deleeteme\deleeteme\bin\Debug\deleeteme.exe
+c:\src\deleeteme\deleeteme\bin\Debug\deleeteme.pdb
+c:\src\deleeteme\deleeteme\bin\Debug\EntityFramework.dll
+c:\src\deleeteme\deleeteme\bin\Debug\EntityFramework.SqlServer.dll
+c:\src\deleeteme\deleeteme\bin\Debug\EntityFramework.xml
+c:\src\deleeteme\deleeteme\bin\Debug\EntityFramework.SqlServer.xml
+c:\src\deleeteme\deleeteme\obj\Debug\deleeteme.csprojResolveAssemblyReference.cache
+c:\src\deleeteme\deleeteme\obj\Debug\deleeteme.exe
+c:\src\deleeteme\deleeteme\obj\Debug\deleeteme.pdb
+C:\src\deleeteme\deleeteme\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\src\deleeteme\deleeteme\bin\Debug\Newtonsoft.Json.dll
+C:\src\deleeteme\deleeteme\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\src\deleeteme\deleeteme\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,10 @@
+c:\src\swaggerClient0\swaggerClient0\bin\Debug\swaggerClient0.exe.config
+c:\src\swaggerClient0\swaggerClient0\bin\Debug\swaggerClient0.exe
+c:\src\swaggerClient0\swaggerClient0\bin\Debug\swaggerClient0.pdb
+c:\src\swaggerClient0\swaggerClient0\obj\Debug\swaggerClient0.exe
+c:\src\swaggerClient0\swaggerClient0\obj\Debug\swaggerClient0.pdb
+c:\src\swaggerClient0\swaggerClient0\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+c:\src\swaggerClient0\swaggerClient0\bin\Debug\Newtonsoft.Json.dll
+c:\src\swaggerClient0\swaggerClient0\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+c:\src\swaggerClient0\swaggerClient0\bin\Debug\Newtonsoft.Json.xml
+c:\src\swaggerClient0\swaggerClient0\obj\Debug\swaggerClient0.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\src\ef0\ef0\bin\Debug\ef0.exe.config
+c:\src\ef0\ef0\bin\Debug\ef0.exe
+c:\src\ef0\ef0\bin\Debug\ef0.pdb
+c:\src\ef0\ef0\obj\Debug\ef0.csprojResolveAssemblyReference.cache
+c:\src\ef0\ef0\obj\Debug\ef0.exe
+c:\src\ef0\ef0\obj\Debug\ef0.pdb
+c:\src\ef0\ef0\bin\Debug\EntityFramework.dll
+c:\src\ef0\ef0\bin\Debug\EntityFramework.SqlServer.dll
+c:\src\ef0\ef0\bin\Debug\EntityFramework.xml
+c:\src\ef0\ef0\bin\Debug\EntityFramework.SqlServer.xml

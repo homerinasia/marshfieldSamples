@@ -1,0 +1,136 @@
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\csc.exe
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\vbc.exe
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\VBCSCompiler.exe
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\ProMVCCh1.dll.config
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\ProMVCCh1.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\ProMVCCh1.pdb
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Helpers.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Mvc.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Razor.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.Deployment.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.Razor.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Razor.xml
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.xml
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.Deployment.xml
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.Razor.xml
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Helpers.xml
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\bin\System.Web.Mvc.xml
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\obj\Debug\ProMVCCh1.csprojResolveAssemblyReference.cache
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\obj\Debug\ProMVCCh1.dll
+c:\users\manager\documents\visual studio 2015\Projects\ProMVCCh1\ProMVCCh1\obj\Debug\ProMVCCh1.pdb
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\csc.exe
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\System.Collections.Immutable.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\vbc.exe
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\VBCSCompiler.exe
+C:\src\ProMVCCh1\ProMVCCh1\bin\roslyn\VBCSCompiler.exe.config
+C:\src\ProMVCCh1\ProMVCCh1\bin\ProMVCCh1.dll.config
+C:\src\ProMVCCh1\ProMVCCh1\bin\ProMVCCh1.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\ProMVCCh1.pdb
+C:\src\ProMVCCh1\ProMVCCh1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\Microsoft.Web.Infrastructure.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Helpers.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Mvc.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Razor.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.Deployment.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.Razor.dll
+C:\src\ProMVCCh1\ProMVCCh1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Razor.xml
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.xml
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.Deployment.xml
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Webpages.Razor.xml
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Helpers.xml
+C:\src\ProMVCCh1\ProMVCCh1\bin\System.Web.Mvc.xml
+C:\src\ProMVCCh1\ProMVCCh1\obj\Debug\ProMVCCh1.csprojResolveAssemblyReference.cache
+C:\src\ProMVCCh1\ProMVCCh1\obj\Debug\ProMVCCh1.dll
+C:\src\ProMVCCh1\ProMVCCh1\obj\Debug\ProMVCCh1.pdb
+C:\src\ProMVCCh1SQL\ProMVCCh1\obj\Debug\ProMVCCh1.csprojResolveAssemblyReference.cache
+C:\src\ProMVCCh1SQL\ProMVCCh1\obj\Debug\ProMVCCh1.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\obj\Debug\ProMVCCh1.pdb
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\csc.exe
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\System.Collections.Immutable.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\vbc.exe
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\VBCSCompiler.exe
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\roslyn\VBCSCompiler.exe.config
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\ProMVCCh1.dll.config
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\ProMVCCh1.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\ProMVCCh1.pdb
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\Microsoft.Web.Infrastructure.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Helpers.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Mvc.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Razor.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Webpages.Deployment.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Webpages.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Webpages.Razor.dll
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Razor.xml
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Webpages.xml
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Webpages.Deployment.xml
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Webpages.Razor.xml
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Helpers.xml
+C:\src\ProMVCCh1SQL\ProMVCCh1\bin\System.Web.Mvc.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\csc.exe
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\System.Collections.Immutable.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\vbc.exe
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\VBCSCompiler.exe
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\roslyn\VBCSCompiler.exe.config
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\ProMVCCh1.dll.config
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\ProMVCCh1.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\ProMVCCh1.pdb
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\Microsoft.Web.Infrastructure.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Helpers.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Mvc.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Razor.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Webpages.Deployment.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Webpages.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Webpages.Razor.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Razor.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Webpages.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Webpages.Deployment.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Webpages.Razor.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Helpers.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\System.Web.Mvc.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\obj\Debug\ProMVCCh1.csprojResolveAssemblyReference.cache
+C:\src\ProMVCCh1EF0\ProMVCCh1\obj\Debug\ProMVCCh1.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\obj\Debug\ProMVCCh1.pdb
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\EntityFramework.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\EntityFramework.SqlServer.dll
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\EntityFramework.xml
+C:\src\ProMVCCh1EF0\ProMVCCh1\bin\EntityFramework.SqlServer.xml
