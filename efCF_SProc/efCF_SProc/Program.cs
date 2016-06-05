@@ -32,6 +32,11 @@ namespace efCF_SProc
             db.tts.Remove(deleteRow);
             db.SaveChanges();
 
+
+            // the old way :)
+            var mySql = db.Database.ExecuteSqlCommand("pitt 2, 'suzy'");
+            var rows = db.tts.SqlQuery("select * from tt").ToList();
+            var mySql2 = db.Database.ExecuteSqlCommand("truncate table tt");
         }
     }
 }

@@ -1,0 +1,104 @@
+﻿@model mvcDDL0.title
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>test0</title>
+</head>
+<body>
+    <div> 
+        @Html..Label(Model.title_id + Model.title1);
+    </div>
+    <p></p>
+   
+    <div>
+        <h4>title</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.title1)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.title1)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.type)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.type)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.pub_id)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.pub_id)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.price)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.price)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.advance)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.advance)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.royalty)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.royalty)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ytd_sales)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ytd_sales)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.notes)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.notes)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.pubdate)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.pubdate)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.title_id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+
+</body>
+</html>

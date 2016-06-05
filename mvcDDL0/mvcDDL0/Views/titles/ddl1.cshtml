@@ -1,0 +1,23 @@
+﻿@model mvcDDL0.title
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ddl0</title>
+</head>
+<body>
+    <div>
+        @*@Html.DropDownList("bookIds");*@
+        @using (Html.BeginForm("test0", "titles"))
+        {
+            @Html.DropDownList("bookIds", (SelectList)ViewBag.Values, new { onchange = "this.form.submit();" })
+        }
+    </div>
+</body>
+</html>

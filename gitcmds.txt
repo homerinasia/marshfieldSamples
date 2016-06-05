@@ -1,0 +1,9 @@
+git add --all -f -v
+
+git commit -m "jun 01"
+
+NO help files are useless!!!git remote add origin http://github.com/homerinasia/MarshfieldSamples.git
+
+git remote add origin https://github.com/homerinasia/marshfieldSamples12.git
+
+git push origin master

@@ -1,0 +1,17 @@
+﻿@model IEnumerable<mvc_ef_cf.family>
+
+@{    
+
+    var x = from a in Model
+            select a.Name;
+    var y = from a in Model
+            select a.Id;
+
+  
+    var myChart = new Chart(width: 600, height: 400)
+       .AddTitle("Employees")
+       .AddSeries(chartType: "column",
+          xValue: x.ToArray(),
+          yValues: y.ToArray())
+       .Write();
+}
