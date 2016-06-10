@@ -146,5 +146,21 @@ namespace mvcDDL0.Controllers
         {
             return View(db.titles.Find(bookIds));
         }
+    
+        // handles both post and get. maybe not brilliant, but what i needed to understand a simple db grid
+        [AcceptVerbs(HttpVerbs.Get|HttpVerbs.Post)]
+        public ActionResult booksByType(string bookType)
+        {            
+            var distinctBookTypes = db.titles.Select(t => t.type).Distinct();
+            ViewBag.bookType = new SelectList(distinctBookTypes);
+            if (null == bookType)
+            {
+                return View(db.titles);
+            }
+            else
+            {
+                return View(db.titles.Where(t => t.type == bookType));
+            }
+        }
     }
 }

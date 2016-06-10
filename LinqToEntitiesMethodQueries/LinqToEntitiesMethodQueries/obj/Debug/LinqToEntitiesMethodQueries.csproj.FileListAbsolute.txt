@@ -1,0 +1,10 @@
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\bin\Debug\LinqToEntitiesMethodQueries.exe.config
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\bin\Debug\LinqToEntitiesMethodQueries.exe
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\bin\Debug\LinqToEntitiesMethodQueries.pdb
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\bin\Debug\EntityFramework.dll
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\bin\Debug\EntityFramework.SqlServer.dll
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\bin\Debug\EntityFramework.xml
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\bin\Debug\EntityFramework.SqlServer.xml
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\obj\Debug\LinqToEntitiesMethodQueries.csprojResolveAssemblyReference.cache
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\obj\Debug\LinqToEntitiesMethodQueries.exe
+c:\src\LinqToEntitiesMethodQueries\LinqToEntitiesMethodQueries\obj\Debug\LinqToEntitiesMethodQueries.pdb
