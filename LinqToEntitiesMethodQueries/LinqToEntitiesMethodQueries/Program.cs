@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace LinqToEntitiesMethodQueries
 {
@@ -112,8 +114,34 @@ namespace LinqToEntitiesMethodQueries
             // will throw an error of there are more than 1
             var only = db.titles.Where(t => t.title_id == "bu1032").Single();
 
+            var skipper = db.titles.OrderBy(t => t.price).Skip(15);
+                        
+            var exec = db.Database.ExecuteSqlCommand("update statistics titles");
 
+            //sqlquery method
+            string sql = "select * from publishers where state='ca'";
+            var capubs = db.publishers.SqlQuery(sql).ToList();
+            var sales = db.sales.SqlQuery("select * from sales where qty >70").ToList();
+           
+            var sqljoin = db.Database.SqlQuery<bookSales>
+                ("select t.title, s.qty from titles t inner join sales s on t.title_id = s.title_id where t.type=@type", new SqlParameter("@type","business")).ToList();
+            
+
+            string uglysql = "select title_id, title as title1,pub_id, type, price,notes, royalty,advance, ytd_sales, pubdate from titles where price between 10 and 12";
+            var books = db.titles.SqlQuery(uglysql).ToList();
+
+            var similarToTop = db.titles.Take(3).OrderBy(t => t.price);
+            
+            //notice the elements portion of the 'rows'
+            var lp =db.titles.ToLookup(t => t.type);
+                                   
         }
+    }
+
+    public class bookSales
+    {        
+        public string  Title { get; set; }
+        public short qty { get; set; }
     }
 }
                 
